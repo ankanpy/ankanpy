@@ -10,7 +10,7 @@
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; Worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9) , [YOLOv10](https://github.com/THU-MIG/yolov10)
+- 🔭 &nbsp; Worked on [Ultralytics-YOLO11](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9) , [YOLOv10](https://github.com/THU-MIG/yolov10)
 - 🌱 &nbsp; I’m currently doing Deep Learning.
 - 📝 &nbsp; Read my blogs on [LearnOpenCV](https://learnopencv.com/author/ankan/) 
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:work.ankanghosh@gmail.com)
