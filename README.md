@@ -59,9 +59,9 @@
 <a href="https://www.buymeacoffee.com/0xsynapse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 
 
-<a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/linkedin.svg" height='25px'/></a>
-<a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/twitter.svg" height='25px'/></a>
-<!-- <a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/kaggle.svg" height='18px'/></a> -->
+<a href='https://www.linkedin.com/in/ankanpy/'><img align='left' alt="linkedin" src="https://github.com/ankanpy/ankanpy/blob/main/assets/LinkedIn_Logo.svg" height='25px'/></a>
+<a href='https://twitter.com/ankanpy'><img align='left' alt="twitter" src="https://github.com/ankanpy/ankanpy/blob/main/assets/X_logo_2023_original.svg" height='25px'/></a>
+<a href='https://scholar.google.com/citations?user=2wYGQJkAAAAJ&hl=en&authuser=3'><img alt="google scholar" src="https://github.com/ankanpy/ankanpy/blob/main/assets/Google_Scholar_logo.svg" height='25px'/></a>
 
 <br>
 <br>
