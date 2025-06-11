@@ -63,11 +63,8 @@
 <a href='https://twitter.com/ankanpy'><img align='left' alt="twitter" src="https://github.com/ankanpy/ankanpy/blob/main/assets/X_logo_2023_original.svg" height='25px'/></a>
 <a href='https://scholar.google.com/citations?user=2wYGQJkAAAAJ&hl=en&authuser=3'><img alt="google scholar" src="https://github.com/ankanpy/ankanpy/blob/main/assets/Google_Scholar_logo.svg" height='25px'/></a>
 
-<br>
-<br>
 
-![visitor badge](https://vbr.nathanchung.dev/badge?page_id=0xSynapse.0xSynapse&logo=github&lcolor=154360&color=212F3C&style=flat&text=VISITORS)
-
+[![Visitors](https://api.visitorbadge.io/api/combined?path=ankanpy&countColor=%23d9e3f0&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=ankanpy)
 
 <!--### 🛠️ My Projects
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
