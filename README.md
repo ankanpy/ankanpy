@@ -2,7 +2,7 @@
 
 ---
 
-[![](https://github.com/0xSynapse/0xSynapse/blob/main/chat.svg)](https://twitter.com/0xSynapse)
+[![](https://github.com/ankanpy/ankanpy/blob/main/chat.svg)](https://twitter.com/0xSynapse)
 
 ---
 
